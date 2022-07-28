@@ -45,18 +45,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:bdarby@mit.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
   - icon: github 
     icon_pack: fab 
     link: https://github.com/bdarby
   - icon: cv 
     icon_pack: ai
-    link: files/cv.pdf
+    link: uploads/cv.pdf
+  - icon: linkedin
+    icon_pack: fas
+    link: www.linkedin.com/in/brady-darby-7070941b8
 # Uncomment below for Github link
   
 
