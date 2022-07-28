@@ -44,30 +44,32 @@ bio: My interests include technical analysis, computer vision, and blockchain de
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:bdarby@mit.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
+  - icon: github 
+    icon_pack: fab 
+    link: https://github.com/bdarby
+  - icon: cv 
+    icon_pack: ai
+    link: files/cv.pdf
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Brady Darby is a fourth-year student at MIT.  He will complete his undergraduate degrees in computer science and mathematics in Spring 2023, and is expected to complete his MEng in Computer Science in Winter 2023.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Brady has leveraged his technical skills across multiple industries, with experience in fintech, aerospace, and healthcare.  Brady has a deep interest in blockchain technologies, and enjoys using his free time to research and develop the blockchain ecosystem.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
