@@ -48,9 +48,6 @@ social:
   - icon: github 
     icon_pack: fab 
     link: https://github.com/bradydarby
-  - icon: cv 
-    icon_pack: ai
-    link: files/resume.pdf
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brady-darby-7070941b8
